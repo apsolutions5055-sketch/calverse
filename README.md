@@ -1,4 +1,4 @@
-# CalVerse — Free Financial Calculators for India & US
+# CalVerse — Free Financial Calculators for India & US.
 
 50+ free financial calculators for personal finance, investments, tax and loans.
 
